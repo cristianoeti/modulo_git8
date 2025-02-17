@@ -22,3 +22,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Added arquivo changelog.md
 - CrisSz - T.I.
+- CrisSz - T.I. 2
